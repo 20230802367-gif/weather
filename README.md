@@ -42,3 +42,21 @@ Weather-App/
 ├── .env
 ├── package.json
 └── README.md
+
+## How It Works
+Enter a city name in the search box.
+The application sends a request to the weather API.
+Live weather data is retrieved.
+Weather details are displayed instantly.
+Users can search multiple cities for updated forecasts.
+
+
+## Future Enhancements
+7-Day Weather Forecast
+Hourly Forecast
+Geolocation Support
+Dark Mode
+Weather Maps
+Air Quality Index (AQI)
+Multiple Language Support
+Weather Alerts and Notifications
